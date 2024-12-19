@@ -1,4 +1,11 @@
 package software.ulpgc.moneycalculator.apps.mock;
 
-public class MockMoneyDisplay {
+import software.ulpgc.moneycalculator.architecture.model.Money;
+import software.ulpgc.moneycalculator.architecture.view.MoneyDisplay;
+
+public class MockMoneyDisplay implements MoneyDisplay {
+    @Override
+    public void show(Money money) {
+        System.out.println(money);
+    }
 }

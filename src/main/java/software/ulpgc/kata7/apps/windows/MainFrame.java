@@ -1,11 +1,10 @@
-package software.ulpgc.moneycalculator.apps.windows;
+package software.ulpgc.kata7.apps.windows;
 
-import software.ulpgc.moneycalculator.apps.windows.view.SwingCurrencyDialog;
-import software.ulpgc.moneycalculator.apps.windows.view.SwingMoneyDialog;
-import software.ulpgc.moneycalculator.apps.windows.view.SwingMoneyDisplay;
-import software.ulpgc.moneycalculator.architecture.control.Command;
-import software.ulpgc.moneycalculator.architecture.control.ExchangeCommand;
-import software.ulpgc.moneycalculator.architecture.model.Currency;
+import software.ulpgc.kata7.apps.windows.view.SwingCurrencyDialog;
+import software.ulpgc.kata7.apps.windows.view.SwingMoneyDialog;
+import software.ulpgc.kata7.apps.windows.view.SwingMoneyDisplay;
+import software.ulpgc.kata7.architecture.control.Command;
+import software.ulpgc.kata7.architecture.model.Currency;
 
 import javax.swing.*;
 import java.awt.*;

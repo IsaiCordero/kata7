@@ -1,8 +1,8 @@
-package software.ulpgc.moneycalculator.apps.mock;
+package software.ulpgc.kata7.apps.mock;
 
-import software.ulpgc.moneycalculator.architecture.model.Currency;
-import software.ulpgc.moneycalculator.architecture.model.ExchangeRate;
-import software.ulpgc.moneycalculator.architecture.persistence.ExchangeRateLoader;
+import software.ulpgc.kata7.architecture.model.Currency;
+import software.ulpgc.kata7.architecture.model.ExchangeRate;
+import software.ulpgc.kata7.architecture.persistence.ExchangeRateLoader;
 
 import java.time.LocalDate;
 import java.util.Objects;

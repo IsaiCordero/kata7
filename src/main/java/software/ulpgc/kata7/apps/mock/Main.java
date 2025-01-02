@@ -1,12 +1,12 @@
-package software.ulpgc.moneycalculator.apps.mock;
+package software.ulpgc.kata7.apps.mock;
 
-import software.ulpgc.moneycalculator.architecture.control.Command;
-import software.ulpgc.moneycalculator.architecture.control.ExchangeCommand;
-import software.ulpgc.moneycalculator.architecture.model.Currency;
-import software.ulpgc.moneycalculator.architecture.persistence.ExchangeRateLoader;
-import software.ulpgc.moneycalculator.architecture.view.CurrencyDialog;
-import software.ulpgc.moneycalculator.architecture.view.MoneyDialog;
-import software.ulpgc.moneycalculator.architecture.view.MoneyDisplay;
+import software.ulpgc.kata7.architecture.control.Command;
+import software.ulpgc.kata7.architecture.control.ExchangeCommand;
+import software.ulpgc.kata7.architecture.model.Currency;
+import software.ulpgc.kata7.architecture.persistence.ExchangeRateLoader;
+import software.ulpgc.kata7.architecture.view.CurrencyDialog;
+import software.ulpgc.kata7.architecture.view.MoneyDialog;
+import software.ulpgc.kata7.architecture.view.MoneyDisplay;
 
 import java.util.List;
 

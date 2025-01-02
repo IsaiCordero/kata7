@@ -1,8 +1,8 @@
-package software.ulpgc.moneycalculator.apps.windows.view;
+package software.ulpgc.kata7.apps.windows.view;
 
-import software.ulpgc.moneycalculator.architecture.model.Currency;
-import software.ulpgc.moneycalculator.architecture.model.Money;
-import software.ulpgc.moneycalculator.architecture.view.MoneyDialog;
+import software.ulpgc.kata7.architecture.model.Currency;
+import software.ulpgc.kata7.architecture.model.Money;
+import software.ulpgc.kata7.architecture.view.MoneyDialog;
 
 import javax.swing.*;
 import java.awt.*;

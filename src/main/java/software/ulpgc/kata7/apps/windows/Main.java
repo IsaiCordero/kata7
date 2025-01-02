@@ -1,9 +1,9 @@
-package software.ulpgc.moneycalculator.apps.windows;
+package software.ulpgc.kata7.apps.windows;
 
-import software.ulpgc.moneycalculator.apps.mock.MockCurrencyLoader;
-import software.ulpgc.moneycalculator.apps.mock.MockExchangeRateLoader;
-import software.ulpgc.moneycalculator.architecture.control.ExchangeCommand;
-import software.ulpgc.moneycalculator.architecture.model.Currency;
+import software.ulpgc.kata7.apps.mock.MockCurrencyLoader;
+import software.ulpgc.kata7.apps.mock.MockExchangeRateLoader;
+import software.ulpgc.kata7.architecture.control.ExchangeCommand;
+import software.ulpgc.kata7.architecture.model.Currency;
 
 import java.util.List;
 

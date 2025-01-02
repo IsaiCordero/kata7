@@ -1,8 +1,8 @@
-package software.ulpgc.moneycalculator.apps.mock;
+package software.ulpgc.kata7.apps.mock;
 
-import software.ulpgc.moneycalculator.architecture.model.Currency;
-import software.ulpgc.moneycalculator.architecture.model.Money;
-import software.ulpgc.moneycalculator.architecture.view.MoneyDialog;
+import software.ulpgc.kata7.architecture.model.Currency;
+import software.ulpgc.kata7.architecture.model.Money;
+import software.ulpgc.kata7.architecture.view.MoneyDialog;
 
 import java.util.List;
 
